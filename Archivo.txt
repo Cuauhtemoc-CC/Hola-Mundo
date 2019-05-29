@@ -1,7 +1,4 @@
 # Hola-Mundo
 Crear repositorio en github
 
-
-Este es un cambio que hicimos en la rama de *edicionesreadme*
-
-Clase nueva
+Esta es una nueva edicion para simular cambios hechos por otra persona en el repositorio remoto y sincronizarlo con el repositorio local
